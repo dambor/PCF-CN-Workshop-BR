@@ -5,8 +5,7 @@ a standard greeting.
 
 ## Getting started
 
-While we could visit
-https://start.spring.io to create a new Spring Boot project, we will
+Let's go to https://start.spring.io to create a new Spring Boot project, we will
 start with a skeleton. Open a Terminal (e.g., *cmd* or *bash* shell). Change the working directory to be
 `PCF-CN-Workshop-BR/labs/my_work/cloud-native-spring`
 
